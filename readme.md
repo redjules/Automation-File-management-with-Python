@@ -31,8 +31,9 @@ python organize_files.py <directory_path>
 ```
 Example:
 ```bash
-```
 python organize_files.py /path/to/your/directory
+```
+
 
 This will organize the files in the specified directory based on their file type.
 
