@@ -26,10 +26,12 @@ This Python script organizes files in a specified directory into categorized fol
 1. Clone or download this repository.
 2. Run the script with the directory you want to organize as an argument.
 
+```bash
 python organize_files.py <directory_path>
-
+```
 Example:
-
+```bash
+```
 python organize_files.py /path/to/your/directory
 
 This will organize the files in the specified directory based on their file type.
