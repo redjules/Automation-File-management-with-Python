@@ -26,9 +26,7 @@ This Python script organizes files in a specified directory into categorized fol
 1. Clone or download this repository.
 2. Run the script with the directory you want to organize as an argument.
 
-```bash
 python organize_files.py <directory_path>
-
 
 Example:
 
@@ -41,4 +39,3 @@ The script checks all the files in the directory.
 Files are categorized based on their extension into folders such as Images, Documents, Videos, Music, and Scripts.
 Files with extensions that do not match the predefined categories are moved to an Others folder.
 Folders for each category are created if they do not exist already.
-```
