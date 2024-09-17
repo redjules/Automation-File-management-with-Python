@@ -34,8 +34,12 @@ python organize_files.py /path/to/your/directory
 
 This will organize the files in the specified directory based on their file type.
 
-How It Works
+## How It Works?
+
 The script checks all the files in the directory.
+
 Files are categorized based on their extension into folders such as Images, Documents, Videos, Music, and Scripts.
+
 Files with extensions that do not match the predefined categories are moved to an Others folder.
+
 Folders for each category are created if they do not exist already.
